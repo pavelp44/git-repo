@@ -1,2 +1,2 @@
-System.out.println("HelloWorld");
-System.out.println("Hello Everybody");
+System.out.println("HelloWorld";);
+System.out.println("Hello Everybody";);
